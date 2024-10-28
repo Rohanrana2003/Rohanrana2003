@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏢 B.Tech Chandigarh University (2024)<br>🔭 I’m currently working on React<br>👯 I’m looking to for a job in Web development<br>🤝 I’m looking to help in Development projects<br>🌱 I’m currently learning Frontend <br>💬 Ask me about anything you want to<br>
+🏢 B.Tech Chandigarh University (2024)<br>🔭 Currently working on React<br>👯 Looking to for a job in Web development<br>🤝 Looking to help in Development projects<br>🌱 Currently learning Frontend <br>💬 Ask me about anything you want to<br>
 
 
 ## 🌐 Socials:
